@@ -1,1 +1,1 @@
-🌱 js | HTML | css | react
+🌱 estudando: javascript
