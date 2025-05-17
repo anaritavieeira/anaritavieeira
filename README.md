@@ -1,1 +1,1 @@
-🌱 estudando: javascript
+🌱 estudando: javascript e python
