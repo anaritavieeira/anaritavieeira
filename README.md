@@ -1,1 +1,1 @@
-🌱 estudando: javascript e python
+👩‍💻 cursando Análise e Desenvolvimento de Sistemas
